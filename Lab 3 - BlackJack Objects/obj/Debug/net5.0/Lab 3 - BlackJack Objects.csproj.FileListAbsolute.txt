@@ -1,0 +1,16 @@
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\bin\Debug\net5.0\Lab 3 - BlackJack Objects.exe
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\bin\Debug\net5.0\Lab 3 - BlackJack Objects.deps.json
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\bin\Debug\net5.0\Lab 3 - BlackJack Objects.runtimeconfig.json
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\bin\Debug\net5.0\Lab 3 - BlackJack Objects.runtimeconfig.dev.json
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\bin\Debug\net5.0\Lab 3 - BlackJack Objects.dll
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\bin\Debug\net5.0\ref\Lab 3 - BlackJack Objects.dll
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\bin\Debug\net5.0\Lab 3 - BlackJack Objects.pdb
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\obj\Debug\net5.0\Lab 3 - BlackJack Objects.csproj.AssemblyReference.cache
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\obj\Debug\net5.0\Lab 3 - BlackJack Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\obj\Debug\net5.0\Lab 3 - BlackJack Objects.AssemblyInfoInputs.cache
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\obj\Debug\net5.0\Lab 3 - BlackJack Objects.AssemblyInfo.cs
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\obj\Debug\net5.0\Lab 3 - BlackJack Objects.csproj.CoreCompileInputs.cache
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\obj\Debug\net5.0\Lab 3 - BlackJack Objects.dll
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\obj\Debug\net5.0\ref\Lab 3 - BlackJack Objects.dll
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\obj\Debug\net5.0\Lab 3 - BlackJack Objects.pdb
+C:\Users\Sky\Desktop\Full Sail\5.Programming 2\Week 3\Lab 3 BlackJack Objects\Lab 3 - BlackJack Objects\Lab 3 - BlackJack Objects\obj\Debug\net5.0\Lab 3 - BlackJack Objects.genruntimeconfig.cache
