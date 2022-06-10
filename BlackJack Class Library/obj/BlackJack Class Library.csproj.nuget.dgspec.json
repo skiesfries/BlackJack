@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sky\\Desktop\\Full Sail\\5.Programming 2\\Week 3\\Lab 3 BlackJack Objects\\Lab 3 - BlackJack Objects\\BlackJack Class Library\\BlackJack Class Library.csproj": {}
+    "C:\\Users\\Sky\\Documents\\GitHub\\BlackJack-\\BlackJack Class Library\\BlackJack Class Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sky\\Desktop\\Full Sail\\5.Programming 2\\Week 3\\Lab 3 BlackJack Objects\\Lab 3 - BlackJack Objects\\BlackJack Class Library\\BlackJack Class Library.csproj": {
+    "C:\\Users\\Sky\\Documents\\GitHub\\BlackJack-\\BlackJack Class Library\\BlackJack Class Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sky\\Desktop\\Full Sail\\5.Programming 2\\Week 3\\Lab 3 BlackJack Objects\\Lab 3 - BlackJack Objects\\BlackJack Class Library\\BlackJack Class Library.csproj",
+        "projectUniqueName": "C:\\Users\\Sky\\Documents\\GitHub\\BlackJack-\\BlackJack Class Library\\BlackJack Class Library.csproj",
         "projectName": "BlackJack Class Library",
-        "projectPath": "C:\\Users\\Sky\\Desktop\\Full Sail\\5.Programming 2\\Week 3\\Lab 3 BlackJack Objects\\Lab 3 - BlackJack Objects\\BlackJack Class Library\\BlackJack Class Library.csproj",
+        "projectPath": "C:\\Users\\Sky\\Documents\\GitHub\\BlackJack-\\BlackJack Class Library\\BlackJack Class Library.csproj",
         "packagesPath": "C:\\Users\\Sky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sky\\Desktop\\Full Sail\\5.Programming 2\\Week 3\\Lab 3 BlackJack Objects\\Lab 3 - BlackJack Objects\\BlackJack Class Library\\obj\\",
+        "outputPath": "C:\\Users\\Sky\\Documents\\GitHub\\BlackJack-\\BlackJack Class Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

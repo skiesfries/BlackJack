@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sky\\Desktop\\Full Sail\\5.Programming 2\\Week 3\\Lab 3 BlackJack Objects\\Lab 3 - BlackJack Objects\\Lab 3 - BlackJack Objects\\Lab 3 - BlackJack Objects.csproj",
+      "projectUniqueName": "C:\\Users\\Sky\\Documents\\GitHub\\BlackJack-\\Lab 3 - BlackJack Objects\\Lab 3 - BlackJack Objects.csproj",
       "projectName": "Lab 3 - BlackJack Objects",
-      "projectPath": "C:\\Users\\Sky\\Desktop\\Full Sail\\5.Programming 2\\Week 3\\Lab 3 BlackJack Objects\\Lab 3 - BlackJack Objects\\Lab 3 - BlackJack Objects\\Lab 3 - BlackJack Objects.csproj",
+      "projectPath": "C:\\Users\\Sky\\Documents\\GitHub\\BlackJack-\\Lab 3 - BlackJack Objects\\Lab 3 - BlackJack Objects.csproj",
       "packagesPath": "C:\\Users\\Sky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sky\\Desktop\\Full Sail\\5.Programming 2\\Week 3\\Lab 3 BlackJack Objects\\Lab 3 - BlackJack Objects\\Lab 3 - BlackJack Objects\\obj\\",
+      "outputPath": "C:\\Users\\Sky\\Documents\\GitHub\\BlackJack-\\Lab 3 - BlackJack Objects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Sky\\Desktop\\Full Sail\\5.Programming 2\\Week 3\\Lab 3 BlackJack Objects\\Lab 3 - BlackJack Objects\\BlackJack Class Library\\BlackJack Class Library.csproj": {
-              "projectPath": "C:\\Users\\Sky\\Desktop\\Full Sail\\5.Programming 2\\Week 3\\Lab 3 BlackJack Objects\\Lab 3 - BlackJack Objects\\BlackJack Class Library\\BlackJack Class Library.csproj"
+            "C:\\Users\\Sky\\Documents\\GitHub\\BlackJack-\\BlackJack Class Library\\BlackJack Class Library.csproj": {
+              "projectPath": "C:\\Users\\Sky\\Documents\\GitHub\\BlackJack-\\BlackJack Class Library\\BlackJack Class Library.csproj"
             }
           }
         }
